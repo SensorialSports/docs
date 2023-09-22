@@ -18,15 +18,15 @@
       "to": "#9563FF"
     }
   },
-  "topbarLinks": [
-    {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
-    }
-  ],
+  // "topbarLinks": [
+  //   {
+  //     "name": "Sensorial Drive",
+  //     "url": "https://drive.google.com/drive/u/1/folders/14oc77VtOosAJIFyV3Fpb8IMbdxdOIJmP"
+  //   }
+  // ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Super Admin Dev",
+    "url": "https://admin-dev.sensorial.life/"
   },
   "tabs": [
     {
@@ -36,20 +36,20 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
-    }
+      "name": "Google Drive",
+      "icon": "drive",
+      "url": "https://drive.google.com/drive/u/1/folders/14oc77VtOosAJIFyV3Fpb8IMbdxdOIJmP"
+    }//,
+    // {
+    //   "name": "Community",
+    //   "icon": "slack",
+    //   "url": "https://mintlify.com/community"
+    // },
+    // {
+    //   "name": "Blog",
+    //   "icon": "newspaper",
+    //   "url": "https://mintlify.com/blog"
+    // }
   ],
   "navigation": [
     {
@@ -73,10 +73,10 @@
         "api-reference/endpoint/delete"
       ]
     }
-  ],
-  "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
-  }
+  // ],
+  // "footerSocials": {
+  //   "twitter": "https://twitter.com/mintlify",
+  //   "github": "https://github.com/mintlify",
+  //   "linkedin": "https://www.linkedin.com/company/mintsearch"
+  // }
 }
