@@ -39,17 +39,17 @@
       "name": "Google Drive",
       "icon": "drive",
       "url": "https://drive.google.com/drive/u/1/folders/14oc77VtOosAJIFyV3Fpb8IMbdxdOIJmP"
-    }//,
-    // {
-    //   "name": "Community",
-    //   "icon": "slack",
-    //   "url": "https://mintlify.com/community"
-    // },
-    // {
-    //   "name": "Blog",
-    //   "icon": "newspaper",
-    //   "url": "https://mintlify.com/blog"
-    // }
+    },
+    {
+       "name": "Community",
+       "icon": "discord",
+       "url": "https://discord.gg/h7zMHNFb"
+    },
+    {
+       "name": "Blog",
+       "icon": "newspaper",
+       "url": "https://www.sensorial.life/"
+    }
   ],
   "navigation": [
     {
