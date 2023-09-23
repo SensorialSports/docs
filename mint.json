@@ -18,12 +18,12 @@
       "to": "#9563FF"
     }
   },
-  // "topbarLinks": [
-  //   {
-  //     "name": "Sensorial Drive",
-  //     "url": "https://drive.google.com/drive/u/1/folders/14oc77VtOosAJIFyV3Fpb8IMbdxdOIJmP"
-  //   }
-  // ],
+   "topbarLinks": [
+     {
+       "name": "Sensorial Drive",
+       "url": "https://drive.google.com/drive/u/1/folders/14oc77VtOosAJIFyV3Fpb8IMbdxdOIJmP"
+     }
+  ],
   "topbarCtaButton": {
     "name": "Super Admin Dev",
     "url": "https://admin-dev.sensorial.life/"
@@ -73,10 +73,9 @@
         "api-reference/endpoint/delete"
       ]
     }
-  // ],
-  // "footerSocials": {
-  //   "twitter": "https://twitter.com/mintlify",
-  //   "github": "https://github.com/mintlify",
-  //   "linkedin": "https://www.linkedin.com/company/mintsearch"
-  // }
+   ],
+   "footerSocials": {
+     "instagram": "https://www.instagram.com/sensorial_life/",
+     "linkedin": "https://www.linkedin.com/company/sensorialhealthtech/"
+   }
 }
