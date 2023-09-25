@@ -20,13 +20,13 @@
   },
    "topbarLinks": [
      {
-       "name": "Sensorial Drive",
-       "url": "https://drive.google.com/drive/u/1/folders/14oc77VtOosAJIFyV3Fpb8IMbdxdOIJmP"
+       "name": "Super Admin Dev",
+       "url": "https://admin-dev.sensorial.life/"
      }
   ],
   "topbarCtaButton": {
-    "name": "Super Admin Dev",
-    "url": "https://admin-dev.sensorial.life/"
+    "name": "Sensorial Drive",
+    "url": "https://drive.google.com/drive/u/1/folders/14oc77VtOosAJIFyV3Fpb8IMbdxdOIJmP"
   },
   "tabs": [
     {
@@ -48,8 +48,8 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
-      "pages": ["introduction", "quickstart", "development"]
+      "group": "Iniciando",
+      "pages": ["introduction", "front-end", "back-end"]
     },
     {
       "group": "Essentials",
