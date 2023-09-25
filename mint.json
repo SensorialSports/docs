@@ -49,7 +49,7 @@
   "navigation": [
     {
       "group": "Iniciando",
-      "pages": ["introduction", "front-end", "back-end"]
+      "pages": ["introduction", "quickstart", "development"]
     },
     {
       "group": "Essentials",
